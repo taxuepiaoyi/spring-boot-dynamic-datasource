@@ -1,0 +1,5 @@
+com/bruce/shardingjdbc/customer/dto/UserDTO$UserDTOBuilder.class
+com/bruce/shardingjdbc/customer/dto/UserDTO.class
+com/bruce/shardingjdbc/customer/service/UserService.class
+com/bruce/shardingjdbc/customer/query/UserQueryDTO.class
+com/bruce/shardingjdbc/customer/query/UserQueryDTO$UserQueryDTOBuilder.class
